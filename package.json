@@ -1,0 +1,16 @@
+{
+  "name": "phono-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://mjkimi.github.io/phono",
+  "dependencies": {
+    "gh-pages": "^2.1.0"
+  }
+}
